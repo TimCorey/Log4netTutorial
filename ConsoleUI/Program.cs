@@ -29,7 +29,16 @@ namespace ConsoleUI
                 log.Error("Developer: we tried to divide by zero again");
             }
 
-            log.Fatal("Maintenance: water pump exploded");
+            Counter j = new Counter();
+
+            log4net.GlobalContext.Properties["Counter"] = j;
+
+            for (j.LoopCounter = 0; j.LoopCounter < 5; j.LoopCounter++)
+            {
+                log.Fatal("This is a fatal error in the process");
+            }
+
+            //log.Fatal("Maintenance: water pump exploded");
 
             Console.ReadLine();
         }
