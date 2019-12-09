@@ -25,6 +25,6 @@ In this last section, we look at how to extend the information we can capture by
 - The article it supplements: [http://www.codeproject.com/Articles/140911/log-net-Tutorial](http://www.codeproject.com/Articles/140911/log-net-Tutorial "log4net Tutorial")
 - The log4net homepage: [http://logging.apache.org/log4net/](http://logging.apache.org/log4net/ "log4net Homepage")
 
-**Note:** To be informed when new training resources are coming and to participate in shaping what new training resources are provided by Tim, sign up for the training announcements newsletter at [http://eepurl.com/btLrsH](http://eepurl.com/btLrsH "Training Announcements Newsletter")
+**Note:** To be informed when new training resources are coming and to participate in shaping what new training resources are provided by Tim, sign up for the training announcements newsletter at [https://signup.iamtimcorey.com](https://signup.iamtimcorey.com "Training Announcements Newsletter")
 
 
